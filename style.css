@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
 }
 
 .orange {
@@ -81,4 +82,17 @@ h1 {
 
 .second-section {
     margin-left: 120px;
+}
+
+#devolop {
+    padding-left: 0%;
+}
+
+.footer {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.white {
+    color: white;
 }
