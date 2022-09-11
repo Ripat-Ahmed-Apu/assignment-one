@@ -1,0 +1,84 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.orange {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.common-section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.height-width {
+    width: 50%;
+    padding-left: 10%;
+
+}
+
+.height-width img {
+    width: 80%;
+
+}
+
+.extra {
+    padding-top: 120px;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    font-weight: 20px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.middle-banner {
+    text-align: center;
+}
+
+#mission {
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 2%;
+}
+
+#mission img {
+    height: 150px;
+    width: 150px;
+}
+
+#vission {
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 2%;
+    margin-left: 25px;
+}
+
+#vission img {
+    height: 150px;
+    width: 150px;
+}
+
+#goals {
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 2%;
+    margin-left: 25px;
+}
+
+#goals img {
+    height: 150px;
+    width: 150px;
+}
+
+.second-section {
+    margin-left: 120px;
+}
